@@ -1,1 +1,8 @@
-
+  
+{
+  "domain": "avion",
+  "name": "Avi-on",
+  "documentation": "https://www.home-assistant.io/integrations/avion",
+  "requirements": ["avion==0.10","bluepy>==1.1.4","csrmesh>=0.9.0","requests>=2.18.4"],
+  "codeowners": []
+}
